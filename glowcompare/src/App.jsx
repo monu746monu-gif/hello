@@ -1,13 +1,12 @@
 import { useState } from 'react'
 import './index.css'
-import './App.css'
 
 function App() {
   
 
   return (
     <>
-     <div className="text-5xl text-red-500 font-bold underline">
+     <div className="text-5xl text-black bg-red-500 font-bold underline">
   Tailwind Fixed 💃
 </div>
 
